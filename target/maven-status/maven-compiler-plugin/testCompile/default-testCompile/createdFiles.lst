@@ -1,0 +1,7 @@
+com/hostaway/tests/AllListingsTests.class
+com/hostaway/pages/AllListingsPage.class
+com/hostaway/base/BaseTest.class
+com/hostaway/pages/HomePage.class
+com/hostaway/pages/SearchPage.class
+com/hostaway/pages/FiltersPage.class
+com/hostaway/tests/FiltersFormTests.class
